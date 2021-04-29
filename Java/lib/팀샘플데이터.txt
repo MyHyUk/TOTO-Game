@@ -1,0 +1,174 @@
+//팀
+
+//축구1~20
+//야구21~30
+ 
+
+TEAM_NAME //팀명
+TEAM_WINRATE //팀승률
+
+
+<<EPL : 프리미어리그>>
+
+--첼시 FC 
+insert into team@toto (team_name,team_winrate)values('첼시 FC',0.817);
+
+--토트넘 핫스퍼 FC
+insert into team@toto (team_name,team_winrate)values('토트넘 핫스퍼 FC',0.767);
+
+//리버풀 FC
+insert into team@toto (team_name,team_winrate)values('리버풀 FC',0.694);
+
+//맨체스터 시티 FC
+insert into team@toto (team_name,team_winrate)values('맨체스터 시티 FC',0.683);
+
+//아스널 FC
+insert into team@toto (team_name,team_winrate)values('아스널 FC',0.655);
+
+//맨체스터 유나이티드 FC
+insert into team@toto (team_name,team_winrate)values('맨체스터 유나이티드 FC',0.69);
+
+//에버턴 FC
+insert into team@toto (team_name,team_winrate)values('에버턴 FC',0.597);
+
+//웨스트 브로미치 알비온 FC
+insert into team@toto (team_name,team_winrate)values('웨스트 브로미치 알비온 FC',0.516);
+
+//사우샘프턴 FC 
+insert into team@toto (team_name,team_winrate)values('사우샘프턴 FC',0.466);
+
+//왓포드 FC 
+insert into team@toto (team_name,team_winrate)values('왓포드 FC',0.45);
+
+//레스터 시티 FC 
+insert into team@toto (team_name,team_winrate)values('레스터 시티 FC',0.433);
+
+//스토크 시티 FC
+insert into team@toto (team_name,team_winrate)values('스토크 시티 FC',0.435);
+
+//AFC 본머스
+insert into team@toto (team_name,team_winrate)values('AFC 본머스',0.419);
+
+//번리 FC
+insert into team@toto (team_name,team_winrate)values('번리 FC',0.403);
+
+//웨스트햄 유나이티드 FC
+insert into team@toto (team_name,team_winrate)values('웨스트햄 유나이티드 FC',0.387);
+
+//크리스탈 팰리스 FC
+insert into team@toto (team_name,team_winrate)values('크리스탈 팰리스 FC',0.367);
+
+//헐 시티 AFC
+insert into team@toto (team_name,team_winrate)values('헐 시티 AFC',0.355);
+
+//스완지 시티 AFC
+insert into team@toto (team_name,team_winrate)values('스완지 시티 AFC',0.387);
+
+//미들즈브러 FC
+insert into team@toto (team_name,team_winrate)values('미들즈브러 FC',0.25);
+
+//선덜랜드 AFC
+insert into team@toto (team_name,team_winrate)values('선덜랜드 AFC',0.25);
+
+-------------------------------------------------------------------------------------------------------
+<<EPL : 분데스리가>>
+
+//FC 바이에른 뮌헨
+insert into team@toto (team_name,team_winrate)values('FC 바이에른 뮌헨',0.833);
+
+//RB 라이프치히
+insert into team@toto (team_name,team_winrate)values('RB 라이프치히',0.704);
+
+//TSG 1899 호펜하임
+insert into team@toto (team_name,team_winrate)values('TSG 1899 호펜하임',0.704);
+
+//보루시아 도르트문트
+insert into team@toto (team_name,team_winrate)values('보루시아 도르트문트',0.667);
+
+//FC 쾰른
+insert into team@toto (team_name,team_winrate)values('FC 쾰른',0.556);
+
+//헤르타 BSC 베를린
+insert into team@toto (team_name,team_winrate)values('헤르타 BSC 베를린',0.519);
+
+//SC 프라이부르크
+insert into team@toto (team_name,team_winrate)values('SC 프라이부르크',0.5);
+
+//아인트라흐트 프랑크푸르트
+insert into team@toto (team_name,team_winrate)values('아인트라흐트 프랑크푸르트',0.5);
+
+//보루시아 묀헨글라드바흐
+insert into team@toto (team_name,team_winrate)values('보루시아 묀헨글라드바흐',0.481);
+
+//바이어 04 레버쿠젠
+insert into team@toto (team_name,team_winrate)values('바이어 04 레버쿠젠',0.463);
+
+//SV 베르더 브레멘
+insert into team@toto (team_name,team_winrate)values('SV 베르더 브레멘',0.464);
+
+//FC 샬케 04
+insert into team@toto (team_name,team_winrate)values('FC 샬케 04',0.482);
+
+//VfL 볼프스부르크
+insert into team@toto (team_name,team_winrate)values('VfL 볼프스부르크',0.392);
+
+//함부르크 SV
+insert into team@toto (team_name,team_winrate)values('함부르크 SV',0.446);
+
+//FSV 마인츠 05
+insert into team@toto (team_name,team_winrate)values('FSV 마인츠 05',0.357);
+
+//FC 아우크스부르크
+insert into team@toto (team_name,team_winrate)values('FC 아우크스부르크',0.375);
+
+//FC 잉골슈타트
+insert into team@toto (team_name,team_winrate)values('FC 잉골슈타트',0.357);
+
+//다름슈타트
+insert into team@toto (team_name,team_winrate)values('다름슈타트',0.196);
+
+
+-------------------------------------------------------------------------------------------------------
+<<KBO : 야구>>
+
+//KT
+insert into team@toto (team_name,team_winrate)values('KT',0.875);
+
+//LG
+insert into team@toto (team_name,team_winrate)values('LG',0.750);
+
+//KIA
+insert into team@toto (team_name,team_winrate)values('KIA',0.750);
+
+//롯데
+insert into team@toto (team_name,team_winrate)values('롯데',0.750);
+
+//두산
+insert into team@toto (team_name,team_winrate)values('두산',0.375);
+
+//NC
+insert into team@toto (team_name,team_winrate)values('NC',0.375);
+
+//넥센
+insert into team@toto (team_name,team_winrate)values('넥센',0.375);
+
+//한화
+insert into team@toto (team_name,team_winrate)values('한화',0.375);
+
+//SK
+insert into team@toto (team_name,team_winrate)values('SK',0.250);
+
+//삼성
+insert into team@toto (team_name,team_winrate)values('삼성',0.125);
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+CREATE USER toto IDENTIFIED BY pass;
+GRANT CONNECT,RESOURCE TO toto;
+GRANT CREATE DATABASE LINK TO toto;
+
+
+
+CREATE DATABASE LINK toto
+CONNECT TO toto
+IDENTIFIED BY pass
+USING '(DESCRIPTION =
+               (ADDRESS_LIST =
+                   (ADDRESS = (PROTOCOL = TCP)(HOST = 211.54.208.143)(PORT = 1521))
+                )
+                (CONNECT_DATA =
+                    (SID = KHU)
+                )
+            )'; 
